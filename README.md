@@ -7,5 +7,6 @@ This repository only holds the release files. The installer and the update feed 
 - **Status:** beta in preparation, nothing published yet.
 - A release pairs **ShroudForge AL Edition** (the official [ShroudForge](https://github.com/bonsaibauer/shroudforge) by Bonsaibauer, plus pull requests not merged yet) with Architect Lines, tested together.
 - The Emberwright website, with the download page and the install guide, is coming.
+- **Questions and bug reports:** on the [Emberwright Discord](https://discord.gg/Pbev3kJmdu) (issues are closed here).
 
 Architect Lines is licensed under CC BY-NC-SA 4.0. ShroudForge is licensed under MIT. Not affiliated with Keen Games.
